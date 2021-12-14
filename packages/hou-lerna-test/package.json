@@ -1,0 +1,33 @@
+{
+  "name": "hou-lerna-test",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "houpeiyun <houpeiyun@58.com>",
+  "homepage": "https://github.com/houpeiyun/lernaTest#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/houpeiyun/lernaTest.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/houpeiyun/lernaTest/issues"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "lodash": "^4.17.21"
+  }
+}
