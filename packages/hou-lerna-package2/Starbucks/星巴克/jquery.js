@@ -14,7 +14,7 @@
 ( function( global, factory ) {
 
     "use strict";
-    // console.log("aaaaa");
+    console.log("aaaaa");
 
     if ( typeof module === "object" && typeof module.exports === "object" ) {
 
