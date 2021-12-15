@@ -1,6 +1,7 @@
 {
   "packages": [
-    "packages/*"
+    "packages/*",
+    "packages/hou-lerna-package2/*"
   ],
   "version": "independent"
 }
