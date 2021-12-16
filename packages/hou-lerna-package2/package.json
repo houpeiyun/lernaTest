@@ -27,6 +27,8 @@
     "url": "https://github.com/houpeiyun/lernaTest/issues"
   },
   "dependencies": {
+    "jquery": "^3.6.0",
     "lodash": "^4.17.21"
-  }
+  },
+  "gitHead": "8fe5524214b09625e01a2d9afbba4e5c765be236"
 }
