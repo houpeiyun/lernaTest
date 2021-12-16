@@ -1,5 +1,6 @@
 {
   "name": "hou-lerna-test",
+  "private": true,
   "version": "1.0.2",
   "description": "> TODO: description",
   "author": "houpeiyun <houpeiyun@58.com>",
