@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/houpeiyun/Starbucks/issues"
   },
-  "homepage": "https://github.com/houpeiyun/Starbucks#readme"
+  "homepage": "https://github.com/houpeiyun/Starbucks#readme",
+  "dependencies": {
+    "vue": "^2.6.14"
+  }
 }

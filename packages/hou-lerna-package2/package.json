@@ -1,6 +1,7 @@
 {
   "name": "hou-lerna-package2",
   "version": "1.0.3",
+  "private": true,
   "description": "> TODO: description",
   "author": "houpeiyun <houpeiyun@58.com>",
   "homepage": "https://github.com/houpeiyun/lernaTest#readme",
@@ -28,7 +29,8 @@
   },
   "dependencies": {
     "jquery": "^3.6.0",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "vue": "^2.6.14"
   },
   "gitHead": "8fe5524214b09625e01a2d9afbba4e5c765be236"
 }
