@@ -1,6 +1,6 @@
 {
   "name": "hou-lerna-package1",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "private": true,
   "description": "> TODO: description",
   "author": "houpeiyun <houpeiyun@58.com>",
@@ -29,7 +29,7 @@
     "url": "https://github.com/houpeiyun/lernaTest/issues"
   },
   "dependencies": {
-    "hou-lerna-test": "^1.0.3",
+    "hou-lerna-test": "^1.0.4",
     "jquery": "^3.6.0",
     "lodash": "^4.17.21",
     "vue": "^2.6.14"
